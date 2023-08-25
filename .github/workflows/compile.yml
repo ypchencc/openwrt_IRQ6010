@@ -9,6 +9,7 @@ env:
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_SCRIPT: diy-part.sh
+  SSH_ACTIONS: true
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
   TZ: Canada/Atlantic
